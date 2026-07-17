@@ -1,9 +1,15 @@
 #include <iostream>
 #include "displaySeries.hpp"
+#include "testMain.hpp"
+
 void printTables();
 int main(){
     std::cout<<"Main started "<< std::endl;
-    printTables();
+    //printTables();
+
+    if(askMultiple()){
+        std::cout<<"Correct !\n";
+    }else{ std::cout<<"False ..";}
     return 0;
 }
 
