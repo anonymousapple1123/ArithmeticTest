@@ -7,7 +7,7 @@ int main(){
     std::cout<<"Main started "<< std::endl;
     //printTables();
 
-    if(askMultiple()){
+    if(askAltMult()){
         std::cout<<"Correct !\n";
     }else{ std::cout<<"False ..";}
     return 0;
