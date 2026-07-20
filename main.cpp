@@ -74,22 +74,22 @@ void startQuiz(){
             case 1 :
             if(askMultiple()){
                 std::cout<<"Correct !\n";
-            }else{ std::cout<<"False ..";}
+            }else{ std::cout<<"False ..\n";}
             break;
             case 2:
             if(askSquare()){
                 std::cout<<"Correct !\n";
-            }else{ std::cout<<"False ..";}
+            }else{ std::cout<<"False ..\n";}
             break;
             case 3:
             if(askCube()){
                 std::cout<<"Correct !\n";
-            }else{ std::cout<<"False ..";}
+            }else{ std::cout<<"False ..\n";}
             break;
             case 4:
             if(askAltMult()){
                 std::cout<<"Correct !\n";
-            }else{ std::cout<<"False ..";}
+            }else{ std::cout<<"False ..\n";}
             break;
             default:
             std::cout<<"Exitting...\n";
