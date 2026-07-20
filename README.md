@@ -1,2 +1,30 @@
 # ArithmeticTest
-A simple tool to learn arithmetics and numbers.
+``` 
+A simple tool to learn arithmetics and numbers. 
+```
+
+---
+
+### Printable tables
+
+1. A number series of multiplication upto X value.
+2. A number series of square upto X value.
+3. A number series of cubes upto X value.
+4. A series of alternate multiples upto X times.
+
+---
+
+### Test series
+
+1. Test for multiplication.
+2. Test for squares
+3. Test for cubes
+4. Test for square roots -TBI
+5. Test for cube roots -TBI
+6. Test for divisibility -TBI
+7. Test for alternate number multiple
+
+
+``
+TBI - To Be Implemented
+``
